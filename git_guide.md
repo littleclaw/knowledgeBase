@@ -8,7 +8,7 @@ git log --pretty=oneline'
 + unstage撤销  git reset HEAD file
 ----
 + 远程仓库关联有ssh key相关问题
-+ 远程仓库关联 git remote add https://github.com/littleclaw
++ 远程仓库关联 git remote add origin https://github.com/littleclaw
 + 推代码,第一次建立关联要加-u  git push -u origin master
 + 克隆远程库到本地 git clone gitURL
 --------
